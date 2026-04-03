@@ -80,12 +80,25 @@ pip install numpy pandas opencv-python scikit-image matplotlib pillow
 2. Run the script:
    python medical_framework.py --zip <dataset.zip>
 
-## 13. Output
+## 13. Output Files Description
+
 1. results.csv  
+   Contains evaluation metrics for all images across all methods including SSIM, PSNR, Entropy, and Mean Difference.
+
 2. ranked_results.csv  
+   Contains results sorted by composite score for each image, showing method ranking.
+
 3. best_method_per_image.csv  
+   Shows the best-performing enhancement method for each image based on score.
+
 4. summary_stats.csv  
-5. visualization images (grid format)  
+   Provides average performance metrics for each method across the dataset.
+
+5. potentially_misleading_cases.csv  
+   Contains cases flagged as risky based on high entropy and low structural similarity.
+
+6. visualization outputs  
+   Grid images showing comparison between original and enhanced outputs.  
 
 ## 14. Conclusion
 This project demonstrates that edge-based enhancement is the most effective technique for preserving structural integrity while improving visual clarity in medical images.
