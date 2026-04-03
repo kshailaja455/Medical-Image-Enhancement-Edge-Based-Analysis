@@ -97,7 +97,7 @@ pip install numpy pandas opencv-python scikit-image matplotlib pillow
 5. potentially_misleading_cases.csv  
    Contains cases flagged as risky based on high entropy and low structural similarity.
 
-6. visualization outputs  
+6. Sample visualization outputs  
    Grid images showing comparison between original and enhanced outputs.  
 
 ## 14. Conclusion
