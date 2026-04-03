@@ -5,7 +5,7 @@ This project focuses on enhancing medical brain images such as CT scans and X-ra
 
 ## 2. Problem Statement
 Medical images are typically grayscale, which makes it difficult to distinguish subtle differences in tissues. This can lead to:
-1. Low contrast between structures  
+1. Low contrast between structures   
 2. Difficulty in identifying abnormalities  
 3. Increased visual fatigue for medical professionals  
 
