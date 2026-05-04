@@ -59,12 +59,43 @@ This project addresses the problem by applying and evaluating multiple enhanceme
 School of Computer Science and Artificial Intelligence  
 SR University, Warangal  
 
-## 10. My Contribution
-1. Implemented the complete image processing pipeline  
-2. Applied enhancement techniques including CLAHE, Gamma, and Edge Detection  
-3. Performed evaluation using SSIM, PSNR, and Entropy  
-4. Designed scoring logic and analyzed performance results  
-5. Generated visualization outputs and result reports  
+# 10. Contributions
+
+**Kanukuntla Shailaja:**
+
+1. Image preprocessing (normalization, resizing)
+2. Implementation of enhancement techniques (CLAHE, Gamma, Edge Enhancement)
+3. Computation of evaluation metrics (SSIM, PSNR, Entropy, Mean Difference)
+
+**Vallala Vyshnavi:**
+
+1. Design of evaluation framework and workflow
+2. Implementation of pseudo-coloring methods (Heatmap Jet, LUT Autumn)
+3. Development of composite scoring mechanism
+
+**Bhukya Madhu:**
+
+1. Dataset collection and organization
+2. Data formatting and pipeline setup
+3. Management of input/output processing
+
+**Nagarajuna Reddy Adapala:**
+
+1. Statistical analysis and result validation
+2. Comparative performance analysis across methods
+3. Consistency evaluation of experimental outputs
+
+**Vadalamani Veerabhadram:**
+
+1. Visualization design (graphs, comparison outputs)
+2. Documentation of results and report structuring
+3. Preparation of figures and tables for presentation
+
+**Ramesh Dadi (Supervisor):**
+
+1. Project supervision and research guidance
+2. Methodology validation and technical review
+3. Final review of manuscript and research direction
 
 ## 11. Tech Stack
 1. Python  
